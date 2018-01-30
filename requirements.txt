@@ -1,0 +1,11 @@
+nltk
+regex
+scipy
+numpy
+pandas
+sklearn
+Flask
+Flask-RESTful
+FLask-SQLALchemy
+uwsgi
+psycopg2
