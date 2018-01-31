@@ -26,7 +26,7 @@ In addition to the pure API implementation from Skretch, a number of high-level 
 
 # Methodology/Principal
 
- It consist of two important steps : Creating and Production
+ It consists of two important steps : Creating and Production
 
 <p align="center"><img src="https://image.slidesharecdn.com/machinelearninginproduction-150928004829-lva1-app6891/95/machine-learning-in-production-12-638.jpg?cb=1443401438" width="500" height="300"></p>
 
@@ -47,8 +47,6 @@ Train the Model Using Historical Dataset and test Accuracy the Model
   
 #### Creating an API using Flask
 
-<p align="center"><img src="https://www.google.co.in/search?q=flask+python&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj28vjb_YHZAhWIvY8KHU2NBTsQ_AUICygC&biw=1366&bih=662#imgdii=EgpPd88LnG8PGM:&imgrc=kUJ3E1DmNxGApM:" width="500" height="300"></p>
-
 There are three important parts in constructing our wrapper function, Apicall():
 
 * Getting the request data enter by user (for which predictions are to be made)
@@ -57,3 +55,17 @@ There are three important parts in constructing our wrapper function, Apicall():
 
   
  # Deployment 
+
+### [Heroku Cloud Station](https://www.heroku.com/platform)
+
+Heroku is a cloud platform based on a managed container system, with integrated data services and a powerful ecosystem, for    deploying and running modern apps.
+
+Deployment Involves following process:
+
+* Create Application
+* Provid GitHub Connection
+* Select Python as Build Packages
+* Heruko Postreg:: DataBase
+
+
+
