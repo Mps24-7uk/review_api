@@ -7,7 +7,7 @@
 
 Review Api designed to handle reviews given by User(customers) and Predict whether the Review is positive or negative
 
-In addition to the pure API implementation from Skretch, a number of high-level classes to make the development of API easy and straightforward.
+In addition to the pure API implementation from Scratch, a number of high-level classes to make the development of API easy and straightforward.
 
 ## Dependencies [Required Modules](https://github.com/Mps24-7uk/review_api/blob/master/requirements.txt)
 
