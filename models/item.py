@@ -12,9 +12,9 @@ class ItemModel(db.Model):
 	
 	__tablename__='items'
 	id=db.Column(db.Integer,primary_key=True)	
-	token=db.Column(db.String(80))
-	input=db.Column(db.String(80))
-	output=db.Column(db.String(80))
+	token=db.Column(db.String(500))
+	input=db.Column(db.String(500))
+	output=db.Column(db.String(100))
 	
 	def __init__(self,token,input=None,output=None):
 		self.token=token
