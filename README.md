@@ -66,6 +66,7 @@ Deployment Involves following process:
 * Provid GitHub Connection
 * Select Python as Build Packages
 * Heruko Postreg:: DataBase
+* Deploy Application
 
 
 
